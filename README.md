@@ -30,5 +30,3 @@ g++ -o warehouse main.cpp Module1.cpp Module2.cpp Module3.cpp Module4.cpp
 - Data structure implementations
 - Warehouse management system
 - CSV data processing
-
--
