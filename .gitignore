@@ -1,0 +1,23 @@
+# Compiled files
+*.exe
+*.o
+*.out
+*.a
+*.so
+*.dll
+*.dylib
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build directories
+build/
+dist/

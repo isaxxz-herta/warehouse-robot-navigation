@@ -1,0 +1,41 @@
+OrderID,CustomerName,OrderTimestamp,OrderStatus,RobotID,RobotName,RobotStatus,RobotBattery,HomeStation,TasksCompleted,PathID,StepNumber,Direction,LocationCode,ItemID,ItemName,Category,Zone,Aisle,Shelf,Quantity,WeightKg
+ORD001,Alice Tan,2026-05-31 08:01:00,completed,R01,Alpha,available,95,S1,12,PATH001,1,FORWARD,S1,ITEM012,Wireless Mouse,Electronics,A,1,4,2,0.2
+ORD001,Alice Tan,2026-05-31 08:01:00,completed,R01,Alpha,available,95,S1,12,PATH001,2,FORWARD,A-ENTRY,ITEM012,Wireless Mouse,Electronics,A,1,4,2,0.2
+ORD001,Alice Tan,2026-05-31 08:01:00,completed,R01,Alpha,available,95,S1,12,PATH001,3,RIGHT,A1,ITEM012,Wireless Mouse,Electronics,A,1,4,2,0.2
+ORD001,Alice Tan,2026-05-31 08:01:00,completed,R01,Alpha,available,95,S1,12,PATH001,4,FORWARD,A1-2,ITEM012,Wireless Mouse,Electronics,A,1,4,2,0.2
+ORD001,Alice Tan,2026-05-31 08:01:00,completed,R01,Alpha,available,95,S1,12,PATH001,5,FORWARD,A1-3,ITEM012,Wireless Mouse,Electronics,A,1,4,2,0.2
+ORD001,Alice Tan,2026-05-31 08:01:00,completed,R01,Alpha,available,95,S1,12,PATH001,6,LEFT,A1-S4,ITEM012,Wireless Mouse,Electronics,A,1,4,2,0.2
+ORD002,Brian Lim,2026-05-31 08:03:30,completed,R02,Beta,busy,78,S2,9,PATH002,1,FORWARD,S2,ITEM045,A4 Paper Ream,Office,B,3,2,1,2.5
+ORD002,Brian Lim,2026-05-31 08:03:30,completed,R02,Beta,busy,78,S2,9,PATH002,2,LEFT,B-ENTRY,ITEM045,A4 Paper Ream,Office,B,3,2,1,2.5
+ORD002,Brian Lim,2026-05-31 08:03:30,completed,R02,Beta,busy,78,S2,9,PATH002,3,FORWARD,B3,ITEM045,A4 Paper Ream,Office,B,3,2,1,2.5
+ORD002,Brian Lim,2026-05-31 08:03:30,completed,R02,Beta,busy,78,S2,9,PATH002,4,FORWARD,B3-1,ITEM045,A4 Paper Ream,Office,B,3,2,1,2.5
+ORD002,Brian Lim,2026-05-31 08:03:30,completed,R02,Beta,busy,78,S2,9,PATH002,5,RIGHT,B3-S2,ITEM045,A4 Paper Ream,Office,B,3,2,1,2.5
+ORD003,Cynthia Wong,2026-05-31 08:07:15,completed,R03,Gamma,available,88,S3,15,PATH003,1,FORWARD,S3,ITEM023,Bluetooth Keyboard,Electronics,A,2,5,3,0.8
+ORD003,Cynthia Wong,2026-05-31 08:07:15,completed,R03,Gamma,available,88,S3,15,PATH003,2,FORWARD,A-ENTRY,ITEM023,Bluetooth Keyboard,Electronics,A,2,5,3,0.8
+ORD003,Cynthia Wong,2026-05-31 08:07:15,completed,R03,Gamma,available,88,S3,15,PATH003,3,RIGHT,A2,ITEM023,Bluetooth Keyboard,Electronics,A,2,5,3,0.8
+ORD003,Cynthia Wong,2026-05-31 08:07:15,completed,R03,Gamma,available,88,S3,15,PATH003,4,FORWARD,A2-1,ITEM023,Bluetooth Keyboard,Electronics,A,2,5,3,0.8
+ORD003,Cynthia Wong,2026-05-31 08:07:15,completed,R03,Gamma,available,88,S3,15,PATH003,5,FORWARD,A2-2,ITEM023,Bluetooth Keyboard,Electronics,A,2,5,3,0.8
+ORD003,Cynthia Wong,2026-05-31 08:07:15,completed,R03,Gamma,available,88,S3,15,PATH003,6,LEFT,A2-S5,ITEM023,Bluetooth Keyboard,Electronics,A,2,5,3,0.8
+ORD004,David Raj,2026-05-31 08:12:00,completed,R05,Epsilon,available,91,S5,11,PATH004,1,FORWARD,S5,ITEM067,Thermal Flask 500ml,Kitchen,C,2,1,1,0.4
+ORD004,David Raj,2026-05-31 08:12:00,completed,R05,Epsilon,available,91,S5,11,PATH004,2,FORWARD,C-ENTRY,ITEM067,Thermal Flask 500ml,Kitchen,C,2,1,1,0.4
+ORD004,David Raj,2026-05-31 08:12:00,completed,R05,Epsilon,available,91,S5,11,PATH004,3,LEFT,C2,ITEM067,Thermal Flask 500ml,Kitchen,C,2,1,1,0.4
+ORD004,David Raj,2026-05-31 08:12:00,completed,R05,Epsilon,available,91,S5,11,PATH004,4,FORWARD,C2-1,ITEM067,Thermal Flask 500ml,Kitchen,C,2,1,1,0.4
+ORD004,David Raj,2026-05-31 08:12:00,completed,R05,Epsilon,available,91,S5,11,PATH004,5,RIGHT,C2-S1,ITEM067,Thermal Flask 500ml,Kitchen,C,2,1,1,0.4
+ORD005,Emily Chen,2026-05-31 08:15:45,completed,R01,Alpha,available,95,S1,12,PATH005,1,FORWARD,S1,ITEM031,Desk Organizer,Office,B,1,1,5,0.5
+ORD005,Emily Chen,2026-05-31 08:15:45,completed,R01,Alpha,available,95,S1,12,PATH005,2,LEFT,B-ENTRY,ITEM031,Desk Organizer,Office,B,1,1,5,0.5
+ORD005,Emily Chen,2026-05-31 08:15:45,completed,R01,Alpha,available,95,S1,12,PATH005,3,FORWARD,B1,ITEM031,Desk Organizer,Office,B,1,1,5,0.5
+ORD005,Emily Chen,2026-05-31 08:15:45,completed,R01,Alpha,available,95,S1,12,PATH005,4,RIGHT,B1-S1,ITEM031,Desk Organizer,Office,B,1,1,5,0.5
+ORD006,Farid Hassan,2026-05-31 08:20:10,processing,R02,Beta,busy,78,S2,9,PATH006,1,FORWARD,S2,ITEM089,Highlighter Set 6pcs,Stationery,D,1,1,2,0.2
+ORD006,Farid Hassan,2026-05-31 08:20:10,processing,R02,Beta,busy,78,S2,9,PATH006,2,RIGHT,D-ENTRY,ITEM089,Highlighter Set 6pcs,Stationery,D,1,1,2,0.2
+ORD006,Farid Hassan,2026-05-31 08:20:10,processing,R02,Beta,busy,78,S2,9,PATH006,3,FORWARD,D1,ITEM089,Highlighter Set 6pcs,Stationery,D,1,1,2,0.2
+ORD006,Farid Hassan,2026-05-31 08:20:10,processing,R02,Beta,busy,78,S2,9,PATH006,4,FORWARD,D1-1,ITEM089,Highlighter Set 6pcs,Stationery,D,1,1,2,0.2
+ORD006,Farid Hassan,2026-05-31 08:20:10,processing,R02,Beta,busy,78,S2,9,PATH006,5,LEFT,D1-S1,ITEM089,Highlighter Set 6pcs,Stationery,D,1,1,2,0.2
+ORD007,Grace Poh,2026-05-31 08:22:30,pending,R03,Gamma,available,88,S3,15,,,,,ITEM014,HDMI Cable 1.5m,Electronics,A,1,6,1,0.3
+ORD008,Henry Ng,2026-05-31 08:25:00,pending,R05,Epsilon,available,91,S5,11,,,,,ITEM052,Stapler Heavy Duty,Office,B,3,7,4,0.6
+ORD009,Iris Lee,2026-05-31 08:27:45,pending,R01,Alpha,available,95,S1,12,,,,,ITEM076,Notebook A5 Hardcover,Stationery,C,3,5,2,0.3
+ORD010,James Kok,2026-05-31 08:30:00,pending,R03,Gamma,available,88,S3,15,,,,,ITEM033,Sticky Notes Pack,Office,B,1,3,1,0.2
+ORD011,Karen Yap,2026-05-31 08:31:20,pending,R05,Epsilon,available,91,S5,11,,,,,ITEM091,Whiteboard Marker Set,Stationery,D,1,4,3,0.3
+ORD012,Leon Teo,2026-05-31 08:33:50,pending,R01,Alpha,available,95,S1,12,,,,,ITEM008,USB-C Cable 2m,Electronics,A,1,3,2,0.1
+ORD013,Mei Lin,2026-05-31 08:35:10,pending,R03,Gamma,available,88,S3,15,,,,,ITEM055,Coffee Mug 350ml,Kitchen,C,1,2,1,0.3
+ORD014,Nathan Goh,2026-05-31 08:37:00,pending,R05,Epsilon,available,91,S5,11,,,,,ITEM042,Ballpoint Pens Box,Office,B,2,4,6,0.4
+ORD015,Olivia Soh,2026-05-31 08:38:30,pending,R01,Alpha,available,95,S1,12,,,,,ITEM019,Laptop Stand,Electronics,A,2,2,2,1.2
